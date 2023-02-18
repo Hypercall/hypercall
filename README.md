@@ -37,6 +37,7 @@ When I am not coding, you'll find me lifting weights in the gym or praying at th
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-00599C?style=for-the-badge&logo=php&logoColor=white)
 ![AutoIt](https://img.shields.io/badge/autoit-00599C?style=for-the-badge&logo=autoit&logoColor=white)
+![LaTeX](https://img.shields.io/badge/latex-00599C?style=for-the-badge&logo=latex&logoColor=white)
 
 
 ### 🧩 Libraries & Framework
