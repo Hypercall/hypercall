@@ -17,8 +17,11 @@ When I am not coding, you'll find me lifting weights in the gym or praying at th
 	<a href="https://twitter.com/hypercall3">
 		<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 	</a>
+	<a href="mailto:messenger@hypercall.net">
+		<img src="https://img.shields.io/badge/email-00599C?style=for-the-badge&logo=email&logoColor=white" />
+	</a>
 	<a href="https://hackerone.com/hypercall">
-		<img src="https://img.shields.io/badge/hackerone-ED8B00?style=for-the-badge&logo=hakcerone&logoColor=white" />
+		<img src="https://img.shields.io/badge/hackerone-ED8B00?style=for-the-badge&logo=hackerone&logoColor=schwarz" />
 	</a>
 </p>
 
