@@ -23,6 +23,7 @@ When I am not coding/reversing, you'll find me lifting weights in the gym or pra
 	<a href="https://hackerone.com/hypercall">
 		<img src="https://img.shields.io/badge/hackerone-ED8B00?style=for-the-badge&logo=hackerone&logoColor=schwarz" />
 	</a>
+	<img src="https://komarev.com/ghpvc/?username=hypercall&style=for-the-badge" />
 </p>
 
 ---
