@@ -32,7 +32,7 @@ When I am not coding/reversing, you'll find me lifting weights in the gym or pra
 
 ### 🚀 Languages
 
-![Java](https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-00599C?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![CSharp](https://img.shields.io/badge/csharp-00599C?style=for-the-badge&logo=csharp&logoColor=white)
@@ -45,6 +45,8 @@ When I am not coding/reversing, you'll find me lifting weights in the gym or pra
 ![PHP](https://img.shields.io/badge/php-00599C?style=for-the-badge&logo=php&logoColor=white)
 ![AutoIt](https://img.shields.io/badge/autoit-00599C?style=for-the-badge&logo=autoit&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-00599C?style=for-the-badge&logo=latex&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-00599C?style=for-the-badge&logo=PowerShell&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
 
 ### 🧩 Libraries & Framework
@@ -59,6 +61,9 @@ When I am not coding/reversing, you'll find me lifting weights in the gym or pra
 ![Boost](https://img.shields.io/badge/Boost-27338e?style=for-the-badge&logo=Boost&logoColor=white)
 ![Xamarin](https://img.shields.io/badge/Xamarin-27338e?style=for-the-badge&logo=Xamarin&logoColor=white)
 ![QT](https://img.shields.io/badge/QT-27338e?style=for-the-badge&logo=QT&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-27338e?style=for-the-badge&logo=Angular&logoColor=red)
+![Django](https://img.shields.io/badge/Django-27338e?style=for-the-badge&logo=Django&logoColor=white)
+![JavaFX](https://img.shields.io/badge/JavaFX-27338e?style=for-the-badge&logo=openjdk&logoColor=white)
 
 
 
@@ -82,6 +87,7 @@ When I am not coding/reversing, you'll find me lifting weights in the gym or pra
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Fedora 37](https://img.shields.io/badge/Fedora-E95420?style=for-the-badge&logo=Fedora&logoColor=white)
+![Android](https://img.shields.io/badge/android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 ## 📈 Stats
 
