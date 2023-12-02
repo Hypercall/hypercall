@@ -86,7 +86,7 @@ When I am not coding/reversing, you'll find me lifting weights in the gym or pra
 ### 💻 Workspace
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Fedora 37](https://img.shields.io/badge/Fedora-E95420?style=for-the-badge&logo=Fedora&logoColor=white)
+![EndeavourOS](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge&)
 ![Android](https://img.shields.io/badge/android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 ## 📈 Stats
