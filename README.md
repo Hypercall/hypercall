@@ -3,7 +3,7 @@
 
 * 📖 Pursuing my Bachelor's in Computer Science 
 
-* 🎓 Currently working as Virus Analyst at <a href="https://www.gdata.de/">G DATA CyberDefense AG</href>
+* 🎓 Currently working as Virus Analyst at <a href="https://www.v-greens.com/">vGreens Holding GmbH</href>
 
 * 🧑🏻‍💻 Tech enthusiast, designer & gamer
 
