@@ -3,7 +3,7 @@
 
 * 📖 Pursuing my Bachelor's in Computer Science 
 
-* 🎓 Currently working as Virus Analyst at <a href="https://www.v-greens.com/">vGreens Holding GmbH</href>
+* 🎓 Currently working as Software Engineer at <a href="https://www.v-greens.com/">vGreens Holding GmbH</href>
 
 * 🧑🏻‍💻 Tech enthusiast, designer & gamer
 
