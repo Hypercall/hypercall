@@ -1,7 +1,7 @@
 # Hey! Glad to see you here! <img src="/src/wave.gif" width="30px" height="30px">
 
 
-* 📖 Pursuing my Bachelor's in Computer Science 
+* 📖 Pursuing my Master's in Computer Science
 
 * 🎓 Currently working as Software Engineer at <a href="https://www.v-greens.com/">vGreens Holding GmbH</href>
 
