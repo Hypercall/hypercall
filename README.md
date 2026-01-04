@@ -92,7 +92,7 @@ When I am not coding/reversing, you'll find me lifting weights in the gym or pra
 ## 📈 Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=hypercall&show_icons=true&hide_border=true&theme=radical" />
+  <img width="48%" src="https://github-readme-stats-fast.vercel.app/api?username=hypercall&show_icons=true&hide_border=true&theme=radical" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=hypercall&hide_border=true&theme=radical" />
 </p>
 
@@ -108,7 +108,7 @@ When I am not coding/reversing, you'll find me lifting weights in the gym or pra
 ## 🔝 Most used languages
 
 <p align="center">
-  <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hypercall&layout=compact&hide_border=true&theme=radical" />
+  <img alt="languages" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=hypercall&layout=compact&hide_border=true&theme=radical" />
 </p>
 
 ---
@@ -117,15 +117,15 @@ When I am not coding/reversing, you'll find me lifting weights in the gym or pra
 
 <p align="center">
 <a href="https://github.com/Hypercall/FakeEye">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hypercall&repo=FakeEye&hide_border=true&theme=radical" />
+  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=hypercall&repo=FakeEye&hide_border=true&theme=radical" />
 </a>
 
 <a href="https://github.com/Hypercall/FakeEye">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hypercall&repo=COVM&hide_border=true&theme=radical" />
+  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=hypercall&repo=COVM&hide_border=true&theme=radical" />
 </a>
 
 <a href="https://github.com/Hypercall/Gepard">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hypercall&repo=Gepard&hide_border=true&theme=radical" />
+  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=hypercall&repo=Gepard&hide_border=true&theme=radical" />
 </a>
 
 </p>
