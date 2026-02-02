@@ -11,7 +11,7 @@
 
 * 💻 Researching techniques used in anti-cheats and malware
 
-When I am not coding/reversing, you'll find me lifting weights in the gym or praying at the mosque. Find out more about me & feel free to connect with me here:
+When I am not coding/reversing, you'll find me lifting weights in the gym. Find out more about me & feel free to connect with me here:
 
 <p align="center">
 	<a href="https://twitter.com/hypercall3">
